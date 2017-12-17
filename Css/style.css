@@ -1,0 +1,56 @@
+body{
+	background-image: url("images.jpg");
+	background-position:center;
+	height:800px; width:800px;
+	margin:0 auto;
+	text-align:center;
+}
+
+a{
+	text-decoration:none;
+	color:red;
+}
+
+a:hover{
+	color:white;
+}
+
+header{
+	font-size:90px;
+	color:white;
+	font-family:sans-serif;
+	line-height:75px;
+	width:500px;
+	margin:0 auto;
+}
+
+.p-1{
+	color:white;
+	font-size:43px;
+	background-color:rgba(21,21,21,0.7);
+}
+
+.s-1{
+	color:gray;
+	font-size:13px;
+}
+
+.l-1{
+	color:red;
+	font-size:18px;
+}
+
+.block{
+	float:left;
+	width:33.3%;
+	color:white;
+	font-size:21px;
+	border:2px solid red;
+	box-sizing:border-box;
+	border-radius:15%;
+}
+
+.e-1{
+	color:white;
+	font-size:13px;
+}
